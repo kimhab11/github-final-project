@@ -1,4 +1,3 @@
-# github-final-projec
 
 # This is the README.md file for the **github-final-project**
 
